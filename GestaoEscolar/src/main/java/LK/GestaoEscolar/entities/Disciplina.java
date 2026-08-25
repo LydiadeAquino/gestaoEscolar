@@ -19,4 +19,4 @@ public class Disciplina {
     //uma disciplina pode ter várias notas lançadas
     @OneToMany(mappedBy = "disciplina")
     private List<Nota> notas;
-}
+

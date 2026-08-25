@@ -1,4 +1,4 @@
 package LK.GestaoEscolar.controllers;
 
-public class ControllerAluno {
+public class LoginController {
 }
